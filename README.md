@@ -1,4 +1,4 @@
-<img src="https://tuimagen.com/banner.png" alt="Banner de Matías" width="100%" />
+
 
 # 👋 ¡Hola! Soy Matías Albites
 
