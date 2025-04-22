@@ -1,9 +1,8 @@
-
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHiv0qvT-0BAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730321563630?e=1750896000&v=beta&t=q2zXn9-kRgnLcLfR4Gy38ZKc5cjevT9vNj3LtGqB7-I" alt="Banner de Matías" width="100%" />
-
 # 👋 ¡Hola! Soy Matías Albites
 
 Soy un entusiasta de la tecnología, explorando el mundo del desarrollo web y más. Siempre estoy aprendiendo y buscando nuevos desafíos.
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHiv0qvT-0BAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730321563630?e=1750896000&v=beta&t=q2zXn9-kRgnLcLfR4Gy38ZKc5cjevT9vNj3LtGqB7-I" alt="Banner de Matías" width="100%" />
 
 ---
 
@@ -35,5 +34,6 @@ Soy un entusiasta de la tecnología, explorando el mundo del desarrollo web y m�
 ---
 
 Gracias por visitar mi perfil 🙌 ¡Seguime para ver mis próximos proyectos!
+
 
 
