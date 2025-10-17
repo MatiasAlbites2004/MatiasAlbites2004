@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -38,7 +39,7 @@
 
 - ⚛️ Desarrollo **Frontend y Backend** con React + Node.js  
 - 🌐 Creación y consumo de **APIs RESTful**  
-- 🗄️ Gestión de bases de datos con **PostgreSQL**  
+- 🗄️ Gestión de bases de datos con **PostgreSQL** y **Prisma ORM**  
 - ☁️ Despliegues y almacenamiento con **AWS (S3, CloudFront)**  
 - 🔁 Aprendiendo sobre **CI/CD** y buenas prácticas de desarrollo
 
