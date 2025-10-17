@@ -41,7 +41,7 @@
 - 🌐 Creación y consumo de **APIs RESTful**  
 - 🗄️ Gestión de bases de datos con **PostgreSQL** y **Prisma ORM**  
 - ☁️ Despliegues y almacenamiento con **AWS (S3, CloudFront)**  
-- 🔁 Aprendiendo sobre **CI/CD** y buenas prácticas de desarrollo
+
 
 ---
 
